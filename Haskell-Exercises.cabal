@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 37f96fb6d0a1ef49a98ce9ae26a2e28c4db62dec8d2016b8365d8cd567ba332a
+-- hash: a43af413b4fc6aa78aea21fd6291475c10b62f9c618027b8ef3eb15b9ba80c22
 
 name:           Haskell-Exercises
 version:        0.1.0.0
@@ -27,6 +27,7 @@ source-repository head
 library
   exposed-modules:
       Caesar
+      HR_CompareTheTriplets
   other-modules:
       Paths_Haskell_Exercises
   hs-source-dirs:
